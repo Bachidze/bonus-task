@@ -15,6 +15,21 @@
     height: 215px;
     margin-top: 60px;
    }
+
+   .bachidze-2{
+    display: none;
+   }
+
+   .bachidze{
+    position: relative;
+    left: -30;
+   }
+}
+
+@media (width < 768px){
+    .bachidze{
+        display: none;
+    }
 }
 
 
